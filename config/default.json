@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://handmadeoutlets:handicrafts007!@cluster0-fhvob.mongodb.net/handmadeoutlet",
+    "jwtSecret": "secret"
+}
